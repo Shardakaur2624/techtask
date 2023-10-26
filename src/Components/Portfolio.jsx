@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/third.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "A Beginner’s Guide to Understanding Cloud Security 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Cloud Security article help you to understanding the cloud security from the beginners.",
+    url: "https://medium.com/@shardakaur/title-a-beginners-guide-to-understanding-cloud-security-b049b0e8a324",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Antlog Clock Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Antlog clock project using HTML, CSS and basic javascript for telling the time",
+    url: " https://shardakaur2624.github.io/antlog-clock/",
   },
   {
-    title: "My Resume Site",
+    title: "Calculator",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Calculator using HTML and CSS",
+    url: "https://shardakaur2624.github.io/calculator/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Animated Website",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Animated Website using HTML, CSS and javascript",
+    url: "https://shardakaur2624.github.io/animatedwebsite/",
   },
 ];
 
